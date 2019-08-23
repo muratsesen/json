@@ -1,0 +1,17 @@
+{
+	"users":
+	[
+		{
+			"id":1,
+			"name":"Murat",
+			"email":"murat@4alabs.io",
+			"password":"asd"
+		},
+		{
+			"id":2,
+			"name":"Niyaz",
+			"email":"niyazi@4alabs.io",
+			"password":"123"
+		}
+	]
+}
