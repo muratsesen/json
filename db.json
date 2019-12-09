@@ -1,4 +1,5 @@
-{[
+{
+	"announcements":[
 		{
 		"Id":1, 
             "Title":"Title", 
