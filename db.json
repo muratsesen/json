@@ -1,17 +1,12 @@
 {
-	"users":
-	[
 		{
-			"id":1,
-			"name":"Murat",
-			"email":"murat@4alabs.io",
-			"password":"asd"
-		},
-		{
-			"id":2,
-			"name":"Niyaz",
-			"email":"niyazi@4alabs.io",
-			"password":"123"
+		"Id":1, 
+            "Title":"Title", 
+            "Data":"Dataaaa", 
+            "DateForPublish" :"2019/12/3",
+            "DateOfCreation" :"2019/12/03",
+            "Creator":"Murat",
+             "IsActive" :"1"
 		}
-	]
+	
 }
