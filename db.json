@@ -2,19 +2,19 @@
 	"announcements":[
 		{
 		"Id":1, 
-            "Title":"Title", 
-            "Data":"Dataaaa", 
-            "DateForPublish" :"2019/12/3",
-            "DateOfCreation" :"2019/12/03",
+            "Title":"Title 1", 
+            "Data":"Data 1", 
+            "DateForPublish" :"2019/12/11",
+            "DateOfCreation" :"2019/12/11",
             "Creator":"Murat",
              "IsActive" :"1"
 		},
 		{
 		"Id":2, 
             "Title":"Title 2", 
-            "Data":"Dataaaa 2", 
-            "DateForPublish" :"2019/12/3",
-            "DateOfCreation" :"2019/12/03",
+            "Data":"Data 2", 
+            "DateForPublish" :"2019/12/11",
+            "DateOfCreation" :"2019/12/11",
             "Creator":"Murat",
              "IsActive" :"1"
 		}
