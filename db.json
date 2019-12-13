@@ -1,5 +1,13 @@
 {
 	"announcements":[
-		
+		{
+		"Id":3, 
+            "Title":"Title 3", 
+            "Data":"Data 3", 
+            "DateForPublish" :"2019/12/11",
+            "DateOfCreation" :"2019/12/11",
+            "Creator":"Murat",
+             "IsActive" :"1"
+		}
 	]
 }
