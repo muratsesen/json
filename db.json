@@ -2,8 +2,8 @@
 	"announcements":[
 		{
 		"Id":3, 
-            "Title":"Title 1", 
-            "Data":"Data 1", 
+            "Title":"Duyuru 1", 
+            "Data":"Ausbildung", 
             "DateForPublish" :"2019/12/11",
             "DateOfCreation" :"2019/12/11",
             "Creator":"Murat",
@@ -11,8 +11,8 @@
 		},
 		{
 		"Id":4, 
-            "Title":"Title 2", 
-            "Data":"Data 2", 
+            "Title":"Duyuru 2", 
+            "Data":"Freut mich dich kennen zu lernen", 
             "DateForPublish" :"2019/12/11",
             "DateOfCreation" :"2019/12/11",
             "Creator":"Murat",
