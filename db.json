@@ -1,22 +1,5 @@
 {
 	"announcements":[
-		{
-		"Id":7, 
-            "Title":"Duyuru 2", 
-            "Data":"Ausbildung", 
-            "DateForPublish" :"2019/12/11",
-            "DateOfCreation" :"2019/12/11",
-            "Creator":"Murat",
-             "IsActive" :"1"
-		},
-		{
-		"Id":9, 
-            "Title":"Duyuru 3", 
-            "Data":"Freut mich dich kennen zu lernen", 
-            "DateForPublish" :"2019/12/11",
-            "DateOfCreation" :"2019/12/11",
-            "Creator":"Murat",
-             "IsActive" :"1"
-		}
+		
 	]
 }
